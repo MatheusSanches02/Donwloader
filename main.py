@@ -13,7 +13,7 @@ def input_data(title, prompt):
 
 while continuar:
    
-    opcao = input_data("Digite 1 para baixar ou 0 para sair.", "Opção: ")
+    opcao = input_data("Opção.", "Digite 1 para baixar ou 0 para sair: ")
 
     if opcao == "1":
         
